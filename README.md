@@ -21,7 +21,7 @@ However, your prototype **must** be *interactive*, e.g. the user should be able 
 When you are done, paste your *view-only* Figma link below. Make sure that it is **public**. *You can test this by opening the link in an incognito window.* **Not making the Figma link public could lose you points.** [Here is an example Figma prototype.](https://www.figma.com/file/dD7xbQEJWanguhnfwNFf40/BadgerChat-Mobile?node-id=0%3A1&t=7VTTaZERjsAKAgxs-1)
 
 INSERT YOUR FIGMA LINK HERE.
-
+[Figma link](https://www.figma.com/file/jAmQYmNZhUusCPWrIqbYAR/Hw7-CS571?type=design&node-id=0%3A1&mode=design&t=osVMYVg5V85PJqjU-1)
 
 ## Badger Bakery Implementation
 
